@@ -21,7 +21,7 @@
 
   4.   `` <pre> ``
 
-   <p>Contoh 👇</p>
+   <p>Contoh Tag Paragraf👇</p>
    
    ```html
 
@@ -40,3 +40,6 @@
 hasilnya 👇
 
 ![Screenshot_20220501-011429](https://user-images.githubusercontent.com/79065496/166117718-33e386af-ef54-4619-886a-90b3e848c298.png)
+
+- <h2>Atribut untuk Paragraf</a>
+  Biasanya paragraf ditambahkan dengan beberapa atribut seperti align, id, class, dll.
